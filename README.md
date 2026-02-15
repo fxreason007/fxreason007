@@ -1,23 +1,30 @@
 # Привет, я Кириллька!
 
+![雲](https://github.com/user-attachments/assets/24df33bf-ae78-49e5-bc03-6ef1abdfcca2)
+
+
+
 ## 🚀 О себе
 - Пишу плагины/моды для майнкрафт 1.21.4+ (Java)
 - Изучаю C/C++ и пишу на них маленькие программы для себя
 - Так же знаю HTML и CSS 😎
 - Фанат Arch Linux
 
+
+
+![f6cc3e7a320fabca2a1c085f68271501 (1)](https://github.com/user-attachments/assets/248c0b14-eb27-49c6-86fe-60278d39e261)
+
 ## ❤️ Лайк конфигурация
-•  OS: Arch Linux
-•  WM: Hyprland
-•  Terminal: Kitty
-•  Shell: Fish + Starship
-•  Editor: Neovim (LazyVim)
-•  Bar: Waybar
-•  Launcher: Rofi
-•  Colors: Catppuccin Mocha
+- OS: Arch Linux
+- WM: Hyprland
+- Terminal: Kitty
+- Shell: Fish + Starship
+- Editor: Neovim (LazyVim)
+- Bar: Waybar
+- Launcher: Rofi
+- Colors: Catppuccin Mocha
 
-
-## 🛠 Мой стек технологий
+## 😎 Мои друзья
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
