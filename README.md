@@ -8,12 +8,19 @@
 
 ## ❤️ Лайк конфигурация
 •  OS: Arch Linux
+
 •  WM: Hyprland
+
 •  Terminal: Kitty
+
 •  Shell: Fish + Starship
+
 •  Editor: Neovim (LazyVim)
+
 •  Bar: Waybar
+
 •  Launcher: Rofi
+
 •  Colors: Catppuccin Mocha
 
 
